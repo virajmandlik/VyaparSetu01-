@@ -1,0 +1,16 @@
+sku,name,category,price,stock,threshold,sale_date,sale_quantity
+SKU001,Premium Headphones,Electronics,129.99,78,15,2023-01-15,12
+SKU002,Wireless Mouse,Accessories,45.99,145,20,2023-01-20,8
+SKU003,Smart Watch,Wearables,199.99,32,10,2023-02-05,5
+SKU004,Bluetooth Speaker,Audio,89.99,56,12,2023-02-10,15
+SKU005,USB-C Charger,Accessories,29.99,120,25,2023-02-15,22
+SKU006,Laptop Stand,Accessories,39.99,45,15,2023-03-01,7
+SKU007,Webcam HD,Electronics,79.99,28,10,2023-03-05,9
+SKU008,Gaming Keyboard,Gaming,149.99,18,8,2023-03-10,4
+SKU009,Wireless Earbuds,Audio,99.99,65,20,2023-03-15,18
+SKU010,Portable SSD,Storage,159.99,24,5,2023-03-20,6
+SKU011,Smartphone Case,Accessories,19.99,200,30,2023-04-01,25
+SKU012,HDMI Cable,Accessories,14.99,150,20,2023-04-05,30
+SKU013,Tablet Stand,Accessories,24.99,80,15,2023-04-10,12
+SKU014,Wireless Keyboard,Electronics,69.99,40,10,2023-04-15,8
+SKU015,Power Bank,Electronics,49.99,60,15,2023-04-20,14
