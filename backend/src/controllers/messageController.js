@@ -1,7 +1,7 @@
 const Message = require('../models/Message');
 const Partnership = require('../models/Partnership');
 
-// Send a message
+// SEND A MESSAGE
 exports.sendMessage = async (req, res) => {
   try {
     const { partnershipId, content } = req.body;
